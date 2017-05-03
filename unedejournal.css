@@ -1,0 +1,213 @@
+h1 {font-family: 'BioRhyme', serif;
+}
+
+h2{ font-family: 'BioRhyme', serif;
+}
+
+header {background-color: #C0C0C0;
+ height: 47px;}
+
+
+}
+
+
+}
+.bas{
+
+  width: 320px;
+  height: 450px;
+right: 100px;
+  top: 15px;
+border: 2px grey solid;
+
+}
+
+.bas2{
+background-color: white;
+top: 185px;
+width: 320px;
+height: 430px;
+right: 400px;
+position: absolute;
+border: 2px grey solid;
+margin-left: 10px;
+}
+
+ .principale{
+width:700px;
+height:170px;
+background-color:lightsalmon;
+margin:80px auto;
+}
+
+.gauche{
+position: relative;
+  width: 320px;
+  height: 450px;
+
+  margin-top: : 0px;
+  margin-left: 5px;
+margin-bottom: 5px;
+margin-right: 5px;
+  right: 0px;
+  top: 15px;
+border: 2px grey solid;
+
+}
+
+.droite {
+width: 320px;
+height: 450px;
+background-color: white;
+top: 180px;
+right: 5px;
+position: absolute;
+margin: 5px;
+border: 2px grey solid;
+
+}
+
+
+.centre {
+width: 530px;
+height: 450px;
+background-color: white;
+top: 185px;
+right: 400px;
+position: absolute;
+border: 2px grey solid;
+}
+
+
+p {
+  margin: 5px auto;
+  text-align: center;
+  font-family: 'Lora', serif;
+}
+
+.secondaires:nth-child(2) {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: lightblue;
+  margin:0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#onglets
+
+{
+
+        position : absolute;
+
+        border : 1px solid transparent;
+
+        padding : 0;
+
+        font : bold 11px Batang, arial, serif;
+
+        list-style-type : none;
+
+        right : 50%;
+
+        left: 15%;
+
+        margin-top : 0;
+
+        width : 1000px;
+
+}
+
+#onglets li
+
+{
+
+    float : left;
+
+    height : 40px; /* à modifier suivant la taille de la police pour centrer le texte dans l'onglet */
+
+
+
+    margin : 2px 2px 0 2px !important;  /* Pour les navigateurs autre que IE */
+
+    margin : 100px 20px 0 20px;  /* Pour IE  */
+
+    border : 1px solid #9EA0A1;
+
+    width: 150px;
+
+}
+
+#onglets li.active
+
+{
+
+    border-bottom: 3px solid color:white;
+
+    background-color: color: white;
+
+}
+
+#onglets a
+
+{
+
+    display : block;
+
+    color : white;
+
+    text-decoration : none;
+
+    padding : 4px;
+
+    text-align: center;
+
+    font-family: arial, sans-serif;
+
+    font-size: 18px;
+
+}
+
+
+#onglets a:hover
+
+{
+
+    background-color: grey;
+
+}
+
+#menu
+
+{
+
+        border-bottom : 1px solid color:white;
+
+        padding-bottom : 25px;
+
+}
